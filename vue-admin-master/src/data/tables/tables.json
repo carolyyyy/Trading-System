@@ -1,0 +1,72 @@
+[
+  {
+    "ID":"1",
+    "Sale": "mqm",
+    "Cusip":"123456789",
+    "rateTime": 1469281964000,
+    "price":101,
+    "score": 5,
+    "rateType": 0
+    
+    
+  },
+  {
+    "ID":"2",
+    "Sale": "mqm",
+    "Cusip":"123456789",
+    "rateTime": 1469281964000,
+    "price":101,
+    "score": 5,
+    "rateType": 0 
+  },
+  {
+    "ID":"3",
+    "Sale": "mqm",
+    "Cusip":"123456789",
+    "rateTime": 1469281964000,
+    "price":101,
+    "score": 5,
+    "rateType": 0
+  },
+  {
+    "ID":"4",
+    "Sale": "mqm",
+    "Cusip":"123456789",
+    "rateTime": 1469281964000,
+    "price":101,
+    "score": 5,
+    "rateType": 0
+
+  },
+  {
+    "ID":"5",
+    "Sale": "mqm",
+    "Cusip":"123456789",
+    "rateTime": 1469281964000,
+    "price":101,
+    "score": 5,
+    "rateType": 0
+
+  },
+  {
+    "ID":"6",
+    "Sale": "mqm",
+    "Cusip":"123456789",
+    "rateTime": 1469281964000,
+    "price":101,
+    "score": 5,
+    "rateType": 0
+
+  },
+  {
+    "ID":"7",
+    "Sale": "mqm",
+    "Cusip":"123456789",
+    "rateTime": 1469281964000,
+    "price":101,
+    "score": 5,
+    "rateType": 0
+    
+    
+  }
+]

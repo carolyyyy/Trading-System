@@ -1,0 +1,35 @@
+{
+  "template_name": "插管",
+  "creator_id": "创建者id",
+  "division": "大类",
+  "section": "小类",
+  "description": "描述",
+  "abbr": "简称",
+  "project_id": "如果有项目的话就有项目id",
+  "fields": [
+  
+    {
+      "id": "cusip",
+      "title": "Cusip",
+      "type": "select",
+      "values": {
+        "0": "123456789",
+        "1": "987654321",
+        "2": "741852963",
+        "3": "963852741",
+        "4": "852741963"
+      }
+    },
+    
+    {
+      "id": "price",
+      "type": "text",
+      "title": "Price",
+      "value":null
+
+    }
+    
+    
+    
+  ]
+}
